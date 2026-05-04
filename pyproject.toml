@@ -21,6 +21,7 @@ streamlit = "^1.39.0"
 requests = "^2.32.0"
 chardet = "^5.2.0"
 hdbscan = "^0.8.38"
+tldextract = ">=5.1"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.0.0"
